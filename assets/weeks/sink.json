@@ -1,0 +1,25 @@
+{
+	"storyName": "Sink",
+	"hideFreeplay": false,
+	"weekBackground": "sink",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sink",
+			"sink_icons",
+			[
+				0,
+				113,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}
