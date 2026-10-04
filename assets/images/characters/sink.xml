@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sink.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MISS SINK DOWN0000" x="0" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0001" x="588" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0002" x="1176" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0003" x="1764" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0004" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0005" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0006" x="1764" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0007" x="1764" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0008" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0009" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0010" x="1764" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0011" x="1764" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0012" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK DOWN0013" x="2352" y="0" width="538" height="717"/>
+	<SubTexture name="MISS SINK LEFT0000" x="2940" y="0" width="595" height="957"/>
+	<SubTexture name="MISS SINK LEFT0001" x="3585" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0002" x="4173" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0003" x="4761" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0004" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0005" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0006" x="4761" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0007" x="4761" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0008" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0009" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0010" x="4761" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0011" x="4761" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0012" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK LEFT0013" x="5349" y="0" width="538" height="749" frameX="-57" frameY="-208" frameWidth="595" frameHeight="957"/>
+	<SubTexture name="MISS SINK RIGHT0000" x="5937" y="0" width="592" height="988"/>
+	<SubTexture name="MISS SINK RIGHT0001" x="6579" y="0" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0002" x="7167" y="0" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0003" x="0" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0004" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0005" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0006" x="0" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0007" x="0" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0008" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0009" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0010" x="0" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0011" x="0" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0012" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK RIGHT0013" x="588" y="1038" width="538" height="717" frameX="-54" frameY="-271" frameWidth="592" frameHeight="988"/>
+	<SubTexture name="MISS SINK UP0000" x="1176" y="1038" width="555" height="1162"/>
+	<SubTexture name="MISS SINK UP0001" x="1781" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0002" x="2369" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0003" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0004" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0005" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0006" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0007" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0008" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0009" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0010" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0011" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0012" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0013" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0014" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0015" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0016" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0017" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0018" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0019" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0020" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0021" x="3545" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0022" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="MISS SINK UP0023" x="2957" y="1038" width="538" height="917" frameX="-17" frameY="-245" frameWidth="555" frameHeight="1162"/>
+	<SubTexture name="SINK DOWN0000" x="0" y="0" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0001" x="0" y="0" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0002" x="4133" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0003" x="4133" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0004" x="4721" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0005" x="4721" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0006" x="5309" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0007" x="5309" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0008" x="5897" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0009" x="5897" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0010" x="6485" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0011" x="6485" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0012" x="6485" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK DOWN0013" x="6485" y="1038" width="538" height="717"/>
+	<SubTexture name="SINK IDLE0000" x="7073" y="1038" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0001" x="7073" y="1038" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0002" x="0" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0003" x="0" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0004" x="588" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0005" x="588" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0006" x="1176" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0007" x="1176" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0008" x="1764" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0009" x="1764" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0010" x="2352" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0011" x="2352" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0012" x="2940" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK IDLE0013" x="3528" y="2250" width="538" height="716"/>
+	<SubTexture name="SINK LEFT0000" x="4116" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0001" x="4116" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0002" x="4704" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0003" x="4704" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0004" x="5292" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0005" x="5292" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0006" x="5880" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0007" x="5880" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0008" x="6468" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0009" x="6468" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0010" x="7056" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0011" x="7056" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0012" x="7056" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK LEFT0013" x="7056" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0000" x="5937" y="0" width="592" height="988"/>
+	<SubTexture name="SINK RIGHT0001" x="7644" y="2250" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0002" x="0" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0003" x="588" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0004" x="1176" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0005" x="1764" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0006" x="2352" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0007" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0008" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0009" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0010" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0011" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0012" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK RIGHT0013" x="2940" y="3017" width="538" height="717"/>
+	<SubTexture name="SINK UP0000" x="1176" y="1038" width="555" height="1162"/>
+	<SubTexture name="SINK UP0001" x="3528" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0002" x="4116" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0003" x="4704" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0004" x="5292" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0005" x="5880" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0006" x="6468" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0007" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0008" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0009" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0010" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0011" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0012" x="7056" y="3017" width="538" height="917"/>
+	<SubTexture name="SINK UP0013" x="7056" y="3017" width="538" height="917"/>
+</TextureAtlas>
